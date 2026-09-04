@@ -1,0 +1,10 @@
+{
+  "name": "sentinel-security",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Sentinel Security — Professional Protection & Security Services website",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site — no build step required'"
+  }
+}
